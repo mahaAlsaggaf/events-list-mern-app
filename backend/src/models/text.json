@@ -1,0 +1,1669 @@
+{
+    "result": {
+        "success": true,
+        "counters": {
+            "total": 33
+        },
+        "items": [
+            {
+                "id": 23535,
+                "langcode": "en",
+                "author": {
+                    "target_id": 886,
+                    "target_type": "user",
+                    "target_uuid": "15a2b1b7-3bb9-43b7-a7c3-f9edfa8f0c9a",
+                    "url": "\/en\/user\/886",
+                    "user_picture": null,
+                    "user_full_name": "Muhammad Waheed",
+                    "twitter_account": null
+                },
+                "title": "Workshop: Commercial Processing System in International Trade",
+                "created": 1683539094,
+                "updated": 1683548036,
+                "body": "\u003Cp\u003ERiyadh Chamber, represented by the Industrial Committee, \u0026nbsp;in cooperation with the Ministry of Industry and Mineral Resources and the General Authority for Foreign Trade, organizes an introductory workshop on commercial processing system in International trade.\u003C\/p\u003E\n\n\u003Cp dir=\u0022ltr\u0022\u003E\u003Ca href=\u0022https:\/\/www.chamber.sa\/ChamberEvents\/Calendar\/Pages\/EventDetails.aspx?EventId=1120\u0022 style=\u0022display: inline-block;padding: 20px 10px; width:150px;  margin-bottom: 0;\n   font-size: 14px; font-weight: 400; line-height: 1.5;\n   text-align: center; vertical-align: middle;     -ms-touch-action: manipulation;\n   touch-action: manipulation; cursor: pointer;\n   -webkit-user-select: none;  -moz-user-select: none;\n   -ms-user-select: none; user-select: none;\n   text-decoration: none;\n   color: #fff;\n   background-color:#cc6666;\n   border-color: #cc6666;\u0022\u003ERegister Now\u003C\/a\u003E\u003C\/p\u003E\n",
+                "category": [
+                    {
+                        "target_id": 2564,
+                        "target_type": "taxonomy_term",
+                        "target_uuid": "1f05a18f-debe-473b-ae36-bcbaede72e01",
+                        "url": "\/ar\/taxonomy\/term\/2564",
+                        "taxonomy_term_name": "Social",
+                        "parent": []
+                    }
+                ],
+                "cost": null,
+                "views": {
+                    "count_views": 5
+                },
+                "email": null,
+                "entity_image": null,
+                "featured": false,
+                "finish_date": 1683751494,
+                "geofield": {
+                    "address": "Riyadh Chamber of Commerce \u0026 Industry (RCCI)",
+                    "lat": 24.666824284682999,
+                    "lon": 46.707820732498
+                },
+                "image": [
+                    {
+                        "target_id": 40554,
+                        "target_type": "file",
+                        "url": "https:\/\/api.riyadh.sa\/sites\/default\/files\/2023-05\/Riyadh%20Chambers.jpeg",
+                        "preview": {
+                            "medium": "https:\/\/api.riyadh.sa\/sites\/default\/files\/styles\/medium\/public\/2023-05\/Riyadh%20Chambers.jpeg?itok=rX3SgOWu",
+                            "thumbnail": "https:\/\/api.riyadh.sa\/sites\/default\/files\/styles\/thumbnail\/public\/2023-05\/Riyadh%20Chambers.jpeg?itok=O_EKL7Ys"
+                        },
+                        "alt": "",
+                        "title": "",
+                        "width": 898,
+                        "height": 540
+                    },
+                    {
+                        "target_id": 40555,
+                        "target_type": "file",
+                        "url": "https:\/\/api.riyadh.sa\/sites\/default\/files\/2023-05\/Fvg45QIXoAU0evI.jpeg",
+                        "preview": {
+                            "medium": "https:\/\/api.riyadh.sa\/sites\/default\/files\/styles\/medium\/public\/2023-05\/Fvg45QIXoAU0evI.jpeg?itok=LJnZlvZN",
+                            "thumbnail": "https:\/\/api.riyadh.sa\/sites\/default\/files\/styles\/thumbnail\/public\/2023-05\/Fvg45QIXoAU0evI.jpeg?itok=0zDQaTyk"
+                        },
+                        "alt": "",
+                        "title": "",
+                        "width": 1085,
+                        "height": 1080
+                    }
+                ],
+                "likes": {
+                    "likes": 0,
+                    "state": false
+                },
+                "moderation_status": {
+                    "state": 1,
+                    "reason": ""
+                },
+                "organizer": "Riyadh Chamber of Commerce \u0026 Industry (RCCI)",
+                "other_contacts": null,
+                "phone": "920004565",
+                "price": {
+                    "type": 0,
+                    "amount": null,
+                    "range": {
+                        "from": null,
+                        "to": null
+                    }
+                },
+                "push": false,
+                "start_date": 1683711894,
+                "tags": [
+                    {
+                        "target_id": 7006,
+                        "target_type": "taxonomy_term",
+                        "target_uuid": "0af604cf-fc6e-4392-8f77-3b10209b2b12",
+                        "url": "\/en\/taxonomy\/term\/7006",
+                        "taxonomy_term_name": "Business Education in Riyadh",
+                        "icon_taxonomy": null,
+                        "parent": []
+                    },
+                    {
+                        "target_id": 3768,
+                        "target_type": "taxonomy_term",
+                        "target_uuid": "152c3067-5f3a-4bf1-9962-9ac766aed027",
+                        "url": "\/ar\/taxonomy\/term\/3768",
+                        "taxonomy_term_name": "Riyadh Chamber of Commerce and Industry",
+                        "icon_taxonomy": null,
+                        "parent": []
+                    }
+                ],
+                "target_audience": null,
+                "time": {
+                    "start_time": 37800,
+                    "finish_time": 41400
+                },
+                "video": [],
+                "website": {
+                    "uri": "https:\/\/twitter.com\/RiyadhChamber\/status\/1655135426519224320",
+                    "title": "twitter.com\/RiyadhChamber",
+                    "options": []
+                },
+                "link": "https:\/\/riyadh.sa\/en\/moment\/events\/item\/event\/23535",
+                "type": "event",
+                "body_summary": ""
+            },
+
+
+
+            
+            {
+                "id": 23533,
+                "langcode": "en",
+                "author": {
+                    "target_id": 886,
+                    "target_type": "user",
+                    "target_uuid": "15a2b1b7-3bb9-43b7-a7c3-f9edfa8f0c9a",
+                    "url": "\/en\/user\/886",
+                    "user_picture": null,
+                    "user_full_name": "Muhammad Waheed",
+                    "twitter_account": null
+                },
+                "title": "Forbes Women\u2019s Summit",
+                "created": 1683534593,
+                "updated": 1683547542,
+                "body": "\u003Cp\u003EForbes Middle East Women\u2019s Summit in Riyadh to witness the world\u2019s most accomplished and talented women from all walks of life and sectors\u2014including business, technology, healthcare, fashion \u0026amp; beauty, and travel \u0026amp; tourism\u2014as they share their stories, learn from one another, and inspire future generations.\u003C\/p\u003E\n\n\u003Cp dir=\u0022ltr\u0022\u003E\u003Ca href=\u0022https:\/\/riyadh.platinumlist.net\/event-tickets\/87060\/forbes-womens-summit\u0022 style=\u0022display: inline-block;padding: 20px 10px; width:150px;  margin-bottom: 0;\n   font-size: 14px; font-weight: 400; line-height: 1.5;\n   text-align: center; vertical-align: middle;     -ms-touch-action: manipulation;\n   touch-action: manipulation; cursor: pointer;\n   -webkit-user-select: none;  -moz-user-select: none;\n   -ms-user-select: none; user-select: none;\n   text-decoration: none;\n   color: #fff;\n   background-color:#cc6666;\n   border-color: #cc6666;\u0022\u003EBook Now\u003C\/a\u003E\u003C\/p\u003E\n",
+                "category": [
+                    {
+                        "target_id": 2564,
+                        "target_type": "taxonomy_term",
+                        "target_uuid": "1f05a18f-debe-473b-ae36-bcbaede72e01",
+                        "url": "\/ar\/taxonomy\/term\/2564",
+                        "taxonomy_term_name": "Social",
+                        "parent": []
+                    }
+                ],
+                "cost": null,
+                "views": {
+                    "count_views": 6
+                },
+                "email": "event@forbesmiddleeast.com",
+                "entity_image": null,
+                "featured": false,
+                "finish_date": 1684830593,
+                "geofield": {
+                    "address": "Fairmont Hotel, Riyadh",
+                    "lat": 24.808201222497225,
+                    "lon": 46.718294664415332
+                },
+                "image": [
+                    {
+                        "target_id": 40551,
+                        "target_type": "file",
+                        "url": "https:\/\/api.riyadh.sa\/sites\/default\/files\/2023-05\/Screen%20Shot%202023-05-08%20at%2011.21.25%20AM.png",
+                        "preview": {
+                            "medium": "https:\/\/api.riyadh.sa\/sites\/default\/files\/styles\/medium\/public\/2023-05\/Screen%20Shot%202023-05-08%20at%2011.21.25%20AM.png?itok=Qsh_4IX_",
+                            "thumbnail": "https:\/\/api.riyadh.sa\/sites\/default\/files\/styles\/thumbnail\/public\/2023-05\/Screen%20Shot%202023-05-08%20at%2011.21.25%20AM.png?itok=x3HH0gAR"
+                        },
+                        "alt": "",
+                        "title": "",
+                        "width": 1912,
+                        "height": 1001
+                    },
+                    {
+                        "target_id": 40552,
+                        "target_type": "file",
+                        "url": "https:\/\/api.riyadh.sa\/sites\/default\/files\/2023-05\/Womens-Summit_banners032-1-scaled.jpg",
+                        "preview": {
+                            "medium": "https:\/\/api.riyadh.sa\/sites\/default\/files\/styles\/medium\/public\/2023-05\/Womens-Summit_banners032-1-scaled.jpg?itok=Nmc7jKw9",
+                            "thumbnail": "https:\/\/api.riyadh.sa\/sites\/default\/files\/styles\/thumbnail\/public\/2023-05\/Womens-Summit_banners032-1-scaled.jpg?itok=ucNRGMoR"
+                        },
+                        "alt": "",
+                        "title": "",
+                        "width": 1920,
+                        "height": 960
+                    }
+                ],
+                "likes": {
+                    "likes": 0,
+                    "state": false
+                },
+                "moderation_status": {
+                    "state": 1,
+                    "reason": ""
+                },
+                "organizer": "Forbes Middle East",
+                "other_contacts": null,
+                "phone": "",
+                "price": {
+                    "type": 0,
+                    "amount": null,
+                    "range": {
+                        "from": null,
+                        "to": null
+                    }
+                },
+                "push": false,
+                "start_date": 1684657793,
+                "tags": [
+                    {
+                        "target_id": 7004,
+                        "target_type": "taxonomy_term",
+                        "target_uuid": "8d37381d-4426-4ead-aa84-db8be5cf24f1",
+                        "url": "\/en\/taxonomy\/term\/7004",
+                        "taxonomy_term_name": "Forbes Women\u2019s Summit in Riyadh",
+                        "icon_taxonomy": null,
+                        "parent": []
+                    },
+                    {
+                        "target_id": 7005,
+                        "target_type": "taxonomy_term",
+                        "target_uuid": "05dfcc70-eca0-4cd9-85c9-5d33513e04d9",
+                        "url": "\/en\/taxonomy\/term\/7005",
+                        "taxonomy_term_name": "Forbes_MENA_",
+                        "icon_taxonomy": null,
+                        "parent": []
+                    }
+                ],
+                "target_audience": null,
+                "time": {
+                    "start_time": 30600,
+                    "finish_time": 72000
+                },
+                "video": [],
+                "website": {
+                    "uri": "https:\/\/forbesmiddleeastevents.com\/forbes-middle-east-women-summit\/",
+                    "title": "forbesmiddleeastevents.com",
+                    "options": []
+                },
+                "link": "https:\/\/riyadh.sa\/en\/moment\/events\/item\/event\/23533",
+                "type": "event",
+                "body_summary": ""
+            },
+            {
+                "id": 23532,
+                "langcode": "en",
+                "author": {
+                    "target_id": 886,
+                    "target_type": "user",
+                    "target_uuid": "15a2b1b7-3bb9-43b7-a7c3-f9edfa8f0c9a",
+                    "url": "\/en\/user\/886",
+                    "user_picture": null,
+                    "user_full_name": "Muhammad Waheed",
+                    "twitter_account": null
+                },
+                "title": "Lecture: Arabic Haiku Dissertation",
+                "created": 1683531064,
+                "updated": 1683532747,
+                "body": "\u003Cp\u003EWithin its Riyadh Cultural Forum, the Saudi Arabian Society for Culture and Arts, organizes a lecture to discuss about\u0026nbsp;Arabic poems in Haiku form. It will be conducted\u0026nbsp;by Mr. Haider Al-Abdullah.\u003C\/p\u003E\n",
+                "category": [
+                    {
+                        "target_id": 2564,
+                        "target_type": "taxonomy_term",
+                        "target_uuid": "1f05a18f-debe-473b-ae36-bcbaede72e01",
+                        "url": "\/ar\/taxonomy\/term\/2564",
+                        "taxonomy_term_name": "Social",
+                        "parent": []
+                    }
+                ],
+                "cost": null,
+                "views": {
+                    "count_views": 8
+                },
+                "email": "info_ruh@sasca.org.sa",
+                "entity_image": null,
+                "featured": false,
+                "finish_date": 1684355465,
+                "geofield": {
+                    "address": "Saudi Arabian Society for Culture and Arts, Riyadh",
+                    "lat": 24.6656786,
+                    "lon": 46.667590435581999
+                },
+                "image": [
+                    {
+                        "target_id": 40549,
+                        "target_type": "file",
+                        "url": "https:\/\/api.riyadh.sa\/sites\/default\/files\/2023-05\/sasca.org_.sa_.jpeg",
+                        "preview": {
+                            "medium": "https:\/\/api.riyadh.sa\/sites\/default\/files\/styles\/medium\/public\/2023-05\/sasca.org_.sa_.jpeg?itok=Sk-7rUvh",
+                            "thumbnail": "https:\/\/api.riyadh.sa\/sites\/default\/files\/styles\/thumbnail\/public\/2023-05\/sasca.org_.sa_.jpeg?itok=bDI94n-O"
+                        },
+                        "alt": "",
+                        "title": "",
+                        "width": 1080,
+                        "height": 1080
+                    },
+                    {
+                        "target_id": 40548,
+                        "target_type": "file",
+                        "url": "https:\/\/api.riyadh.sa\/sites\/default\/files\/2023-05\/Fvh1QUmXsAILNik.jpeg",
+                        "preview": {
+                            "medium": "https:\/\/api.riyadh.sa\/sites\/default\/files\/styles\/medium\/public\/2023-05\/Fvh1QUmXsAILNik.jpeg?itok=jJ3faOMz",
+                            "thumbnail": "https:\/\/api.riyadh.sa\/sites\/default\/files\/styles\/thumbnail\/public\/2023-05\/Fvh1QUmXsAILNik.jpeg?itok=PS0W0pOM"
+                        },
+                        "alt": "",
+                        "title": "",
+                        "width": 1080,
+                        "height": 1080
+                    }
+                ],
+                "likes": {
+                    "likes": 0,
+                    "state": false
+                },
+                "moderation_status": {
+                    "state": 1,
+                    "reason": ""
+                },
+                "organizer": "Saudi Arabian Society for Culture and Arts",
+                "other_contacts": null,
+                "phone": "0550454528",
+                "price": {
+                    "type": 0,
+                    "amount": null,
+                    "range": {
+                        "from": null,
+                        "to": null
+                    }
+                },
+                "push": false,
+                "start_date": 1684308665,
+                "tags": [
+                    {
+                        "target_id": 6545,
+                        "target_type": "taxonomy_term",
+                        "target_uuid": "0314c18a-c9ca-4cad-84ad-605315658a81",
+                        "url": "\/en\/taxonomy\/term\/6545",
+                        "taxonomy_term_name": "Community Initiatives in Riyadh",
+                        "icon_taxonomy": null,
+                        "parent": []
+                    }
+                ],
+                "target_audience": null,
+                "time": {
+                    "start_time": 73800,
+                    "finish_time": 77400
+                },
+                "video": [],
+                "website": {
+                    "uri": "https:\/\/twitter.com\/Ruh_sasca\/status\/1655201797927993344",
+                    "title": "twitter.com\/Ruh_sasca",
+                    "options": []
+                },
+                "link": "https:\/\/riyadh.sa\/en\/moment\/events\/item\/event\/23532",
+                "type": "event",
+                "body_summary": ""
+            },
+            {
+                "id": 23519,
+                "langcode": "en",
+                "author": {
+                    "target_id": 886,
+                    "target_type": "user",
+                    "target_uuid": "15a2b1b7-3bb9-43b7-a7c3-f9edfa8f0c9a",
+                    "url": "\/en\/user\/886",
+                    "user_picture": null,
+                    "user_full_name": "Muhammad Waheed",
+                    "twitter_account": null
+                },
+                "title": "International Conference on Islamic Numismatics",
+                "created": 1683445451,
+                "updated": 1683466716,
+                "body": "\u003Cp\u003EThe Ministry of Culture is holding the International Conference on Islamic Numismatics, which emphasizes the significance of coins as an original document in the narrative of Islamic history. The conference is hosting the most prominent historians and directors of Islamic museums throughout the world, and long with the conference, there are scheduled workshops led by worldwide experts on coin restoration.\u003C\/p\u003E\n\n\u003Cp dir=\u0022ltr\u0022\u003E\u003Ca href=\u0022https:\/\/www.ticketmx.com\/en\/d\/3449\/international-conference-on-islamic-numismatics\u0022 style=\u0022display: inline-block;padding: 20px 10px; width:150px;  margin-bottom: 0;\n   font-size: 14px; font-weight: 400; line-height: 1.5;\n   text-align: center; vertical-align: middle;     -ms-touch-action: manipulation;\n   touch-action: manipulation; cursor: pointer;\n   -webkit-user-select: none;  -moz-user-select: none;\n   -ms-user-select: none; user-select: none;\n   text-decoration: none;\n   color: #fff;\n   background-color:#cc6666;\n   border-color: #cc6666;\u0022\u003EBook Now\u003C\/a\u003E\u003C\/p\u003E\n\n\u003Cp dir=\u0022ltr\u0022\u003E\u0026nbsp;\u003C\/p\u003E\n\n\u003Cp\u003E\u003Cstrong\u003EOpening Hours:\u0026nbsp;\u003C\/strong\u003E\u003C\/p\u003E\n\n\u003Cul\u003E\n\t\u003Cli\u003EDay 1 is from 9:00 am to 4:00 pm\u003C\/li\u003E\n\t\u003Cli\u003EDay 2 from 2:00 PM to 6:30 PM\u003C\/li\u003E\n\t\u003Cli\u003EDay 3 from 10:00 am to 1:15 pm\u003C\/li\u003E\n\u003C\/ul\u003E\n",
+                "category": [
+                    {
+                        "target_id": 2564,
+                        "target_type": "taxonomy_term",
+                        "target_uuid": "1f05a18f-debe-473b-ae36-bcbaede72e01",
+                        "url": "\/ar\/taxonomy\/term\/2564",
+                        "taxonomy_term_name": "Social",
+                        "parent": []
+                    }
+                ],
+                "cost": null,
+                "views": {
+                    "count_views": 18
+                },
+                "email": null,
+                "entity_image": null,
+                "featured": false,
+                "finish_date": 1684615451,
+                "geofield": {
+                    "address": "King Abdullah Financial District (KAFD) Conference Center",
+                    "lat": 24.760241643704777,
+                    "lon": 46.642019635594338
+                },
+                "image": [
+                    {
+                        "target_id": 40518,
+                        "target_type": "file",
+                        "url": "https:\/\/api.riyadh.sa\/sites\/default\/files\/2023-05\/Screen%20Shot%202023-05-07%20at%203.54.05%20AM.png",
+                        "preview": {
+                            "medium": "https:\/\/api.riyadh.sa\/sites\/default\/files\/styles\/medium\/public\/2023-05\/Screen%20Shot%202023-05-07%20at%203.54.05%20AM.png?itok=UW1rSaFT",
+                            "thumbnail": "https:\/\/api.riyadh.sa\/sites\/default\/files\/styles\/thumbnail\/public\/2023-05\/Screen%20Shot%202023-05-07%20at%203.54.05%20AM.png?itok=9ZIx57DW"
+                        },
+                        "alt": "",
+                        "title": "",
+                        "width": 1920,
+                        "height": 882
+                    },
+                    {
+                        "target_id": 40519,
+                        "target_type": "file",
+                        "url": "https:\/\/api.riyadh.sa\/sites\/default\/files\/2023-05\/FvdY0VVX0AQ7O8-.jpeg",
+                        "preview": {
+                            "medium": "https:\/\/api.riyadh.sa\/sites\/default\/files\/styles\/medium\/public\/2023-05\/FvdY0VVX0AQ7O8-.jpeg?itok=4K4IqfZ7",
+                            "thumbnail": "https:\/\/api.riyadh.sa\/sites\/default\/files\/styles\/thumbnail\/public\/2023-05\/FvdY0VVX0AQ7O8-.jpeg?itok=aK6i01Rv"
+                        },
+                        "alt": "",
+                        "title": "",
+                        "width": 800,
+                        "height": 418
+                    },
+                    {
+                        "target_id": 40520,
+                        "target_type": "file",
+                        "url": "https:\/\/api.riyadh.sa\/sites\/default\/files\/2023-05\/mKAFD-Conference-Center%20%281%29.png",
+                        "preview": {
+                            "medium": "https:\/\/api.riyadh.sa\/sites\/default\/files\/styles\/medium\/public\/2023-05\/mKAFD-Conference-Center%20%281%29.png?itok=wFinOERj",
+                            "thumbnail": "https:\/\/api.riyadh.sa\/sites\/default\/files\/styles\/thumbnail\/public\/2023-05\/mKAFD-Conference-Center%20%281%29.png?itok=LAZuvllD"
+                        },
+                        "alt": "",
+                        "title": "",
+                        "width": 800,
+                        "height": 418
+                    }
+                ],
+                "likes": {
+                    "likes": 0,
+                    "state": false
+                },
+                "moderation_status": {
+                    "state": 1,
+                    "reason": ""
+                },
+                "organizer": "Museums Commission, Ministry of Culture",
+                "other_contacts": null,
+                "phone": "8001189999",
+                "price": {
+                    "type": 0,
+                    "amount": null,
+                    "range": {
+                        "from": null,
+                        "to": null
+                    }
+                },
+                "push": false,
+                "start_date": 1684395851,
+                "tags": [
+                    {
+                        "target_id": 6993,
+                        "target_type": "taxonomy_term",
+                        "target_uuid": "f509d7ae-48c8-43e6-abde-d7dc74bb54c2",
+                        "url": "\/en\/taxonomy\/term\/6993",
+                        "taxonomy_term_name": "Islamic coins",
+                        "icon_taxonomy": null,
+                        "parent": []
+                    },
+                    {
+                        "target_id": 6994,
+                        "target_type": "taxonomy_term",
+                        "target_uuid": "75ebf0e1-662c-4e65-8371-e2957ea14f60",
+                        "url": "\/en\/taxonomy\/term\/6994",
+                        "taxonomy_term_name": "Coin restoration",
+                        "icon_taxonomy": null,
+                        "parent": []
+                    },
+                    {
+                        "target_id": 6995,
+                        "target_type": "taxonomy_term",
+                        "target_uuid": "ec08cce2-6325-4c78-84f3-de3eb7574fad",
+                        "url": "\/en\/taxonomy\/term\/6995",
+                        "taxonomy_term_name": "International Conference on Islamic Numismatics in Riyadh",
+                        "icon_taxonomy": null,
+                        "parent": []
+                    }
+                ],
+                "target_audience": null,
+                "time": {
+                    "start_time": 32400,
+                    "finish_time": 61200
+                },
+                "video": [],
+                "website": {
+                    "uri": "https:\/\/mocevents.ticketmx.com\/en\/d\/3449\/international-conference-on-islamic-numismatics\/c1ca71d55b8b46e9abaf",
+                    "title": "ticketmx.com",
+                    "options": []
+                },
+                "link": "https:\/\/riyadh.sa\/en\/moment\/events\/item\/event\/23519",
+                "type": "event",
+                "body_summary": ""
+            },
+            {
+                "id": 23512,
+                "langcode": "en",
+                "author": {
+                    "target_id": 886,
+                    "target_type": "user",
+                    "target_uuid": "15a2b1b7-3bb9-43b7-a7c3-f9edfa8f0c9a",
+                    "url": "\/en\/user\/886",
+                    "user_picture": null,
+                    "user_full_name": "Muhammad Waheed",
+                    "twitter_account": null
+                },
+                "title": "Saudi Light \u0026 Sound (SLS) Expo",
+                "created": 1683287203,
+                "updated": 1683466442,
+                "body": "\u003Cp\u003EDiscover the latest event technology, lighting design, and audio innovations at the Saudi Light and Sound (SLS) Expo. Connect with global leaders and gain valuable insights for your venue or project. Shop for the latest equipment solutions and services designed to breathe life into your next-generation site.\u0026nbsp;Saudi Light and Sound (SLS) Expo offers a stage where people can stop, look and listen to the latest developments and illuminating innovations.\u0026nbsp;\u003C\/p\u003E\n\n\u003Cp dir=\u0022ltr\u0022\u003E\u003Ca href=\u0022https:\/\/www.saudilightandsoundexpo.com\/\u0022 style=\u0022display: inline-block;padding: 20px 10px; width:150px;  margin-bottom: 0;\n   font-size: 14px; font-weight: 400; line-height: 1.5;\n   text-align: center; vertical-align: middle;     -ms-touch-action: manipulation;\n   touch-action: manipulation; cursor: pointer;\n   -webkit-user-select: none;  -moz-user-select: none;\n   -ms-user-select: none; user-select: none;\n   text-decoration: none;\n   color: #fff;\n   background-color:#cc6666;\n   border-color: #cc6666;\u0022\u003ERegister Now\u003C\/a\u003E\u003C\/p\u003E\n\n\u003Cp\u003E\u003Ciframe allow=\u0022accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\u0022 allowfullscreen=\u0022\u0022 frameborder=\u00220\u0022 height=\u0022600\u0022 src=\u0022https:\/\/www.youtube.com\/embed\/Ihe98mYoZDM\u0022 title=\u0022YouTube video player\u0022 width=\u0022800\u0022\u003E\u003C\/iframe\u003E\u003C\/p\u003E\n",
+                "category": [
+                    {
+                        "target_id": 83,
+                        "target_type": "taxonomy_term",
+                        "target_uuid": "9ad66ed6-d3b9-4bce-aa44-a82f9e61b2cd",
+                        "url": "\/en\/taxonomy\/term\/83",
+                        "taxonomy_term_name": "Exhibitions \u0026 Festivals",
+                        "parent": []
+                    }
+                ],
+                "cost": null,
+                "views": {
+                    "count_views": 10
+                },
+                "email": null,
+                "entity_image": null,
+                "featured": false,
+                "finish_date": 1685479603,
+                "geofield": {
+                    "address": "Riyadh International Convention \u0026 Exhibition Centre (RICEC)",
+                    "lat": 24.751624,
+                    "lon": 46.725996000000002
+                },
+                "image": [
+                    {
+                        "target_id": 40497,
+                        "target_type": "file",
+                        "url": "https:\/\/api.riyadh.sa\/sites\/default\/files\/2023-05\/mRiyadh-GEC2020.jpeg",
+                        "preview": {
+                            "medium": "https:\/\/api.riyadh.sa\/sites\/default\/files\/styles\/medium\/public\/2023-05\/mRiyadh-GEC2020.jpeg?itok=fOcfrKsG",
+                            "thumbnail": "https:\/\/api.riyadh.sa\/sites\/default\/files\/styles\/thumbnail\/public\/2023-05\/mRiyadh-GEC2020.jpeg?itok=6Ahwn15J"
+                        },
+                        "alt": "",
+                        "title": "",
+                        "width": 1200,
+                        "height": 350
+                    },
+                    {
+                        "target_id": 40498,
+                        "target_type": "file",
+                        "url": "https:\/\/api.riyadh.sa\/sites\/default\/files\/2023-05\/imag.jpeg",
+                        "preview": {
+                            "medium": "https:\/\/api.riyadh.sa\/sites\/default\/files\/styles\/medium\/public\/2023-05\/imag.jpeg?itok=w29If-LX",
+                            "thumbnail": "https:\/\/api.riyadh.sa\/sites\/default\/files\/styles\/thumbnail\/public\/2023-05\/imag.jpeg?itok=iLL8jXkw"
+                        },
+                        "alt": "",
+                        "title": "",
+                        "width": 439,
+                        "height": 591
+                    },
+                    {
+                        "target_id": 40499,
+                        "target_type": "file",
+                        "url": "https:\/\/api.riyadh.sa\/sites\/default\/files\/2023-05\/why-visit-01.jpeg",
+                        "preview": {
+                            "medium": "https:\/\/api.riyadh.sa\/sites\/default\/files\/styles\/medium\/public\/2023-05\/why-visit-01.jpeg?itok=Dc-pHl7d",
+                            "thumbnail": "https:\/\/api.riyadh.sa\/sites\/default\/files\/styles\/thumbnail\/public\/2023-05\/why-visit-01.jpeg?itok=BhRigX2-"
+                        },
+                        "alt": "",
+                        "title": "",
+                        "width": 439,
+                        "height": 591
+                    }
+                ],
+                "likes": {
+                    "likes": 0,
+                    "state": false
+                },
+                "moderation_status": {
+                    "state": 1,
+                    "reason": ""
+                },
+                "organizer": "DMG Events LLC Ltd",
+                "other_contacts": null,
+                "phone": "",
+                "price": {
+                    "type": 0,
+                    "amount": null,
+                    "range": {
+                        "from": null,
+                        "to": null
+                    }
+                },
+                "push": false,
+                "start_date": 1685274403,
+                "tags": [
+                    {
+                        "target_id": 2384,
+                        "target_type": "taxonomy_term",
+                        "target_uuid": "829784eb-9b26-4c74-aae3-87d23c063f81",
+                        "url": "\/ar\/taxonomy\/term\/2384",
+                        "taxonomy_term_name": "Investment Climate",
+                        "icon_taxonomy": null,
+                        "parent": []
+                    },
+                    {
+                        "target_id": 5200,
+                        "target_type": "taxonomy_term",
+                        "target_uuid": "0f0e6a5c-3969-4829-90bd-db97efcfda40",
+                        "url": "\/en\/taxonomy\/term\/5200",
+                        "taxonomy_term_name": "Lights",
+                        "icon_taxonomy": null,
+                        "parent": []
+                    },
+                    {
+                        "target_id": 5201,
+                        "target_type": "taxonomy_term",
+                        "target_uuid": "7d4ddb5f-4b18-44e7-90f5-660f1a741194",
+                        "url": "\/en\/taxonomy\/term\/5201",
+                        "taxonomy_term_name": "Sound",
+                        "icon_taxonomy": null,
+                        "parent": []
+                    },
+                    {
+                        "target_id": 189,
+                        "target_type": "taxonomy_term",
+                        "target_uuid": "1c66d042-2e48-46a4-9f46-7e85cbb5cf56",
+                        "url": "\/en\/taxonomy\/term\/189",
+                        "taxonomy_term_name": "entertainment",
+                        "icon_taxonomy": null,
+                        "parent": []
+                    }
+                ],
+                "target_audience": null,
+                "time": {
+                    "start_time": 54000,
+                    "finish_time": 75600
+                },
+                "video": [],
+                "website": {
+                    "uri": "https:\/\/www.saudilightandsoundexpo.com\/",
+                    "title": "saudilightandsoundexpo.com",
+                    "options": []
+                },
+                "link": "https:\/\/riyadh.sa\/en\/moment\/events\/item\/event\/23512",
+                "type": "event",
+                "body_summary": ""
+            },
+            {
+                "id": 23506,
+                "langcode": "en",
+                "author": {
+                    "target_id": 886,
+                    "target_type": "user",
+                    "target_uuid": "15a2b1b7-3bb9-43b7-a7c3-f9edfa8f0c9a",
+                    "url": "\/en\/user\/886",
+                    "user_picture": null,
+                    "user_full_name": "Muhammad Waheed",
+                    "twitter_account": null
+                },
+                "title": "Specialized Media conference",
+                "created": 1683192196,
+                "updated": 1683202084,
+                "body": "\u003Cp\u003EIn the presence of His Excellency Dr. Badran Bin Abdulrahman Al-Omar, the president of King Saud University (KSU) in Riyadh, the Saudi Association for Media and Communication (SAMC) at King Saud University organizes Specialized Media conference. It includes specialized media, concepts and applications, political and military media, security and development media, health and environmental media, cultural and social media, administrative, economic and real estate media, sports, tourism and drama media.\u0026nbsp;\u003C\/p\u003E\n",
+                "category": [
+                    {
+                        "target_id": 2564,
+                        "target_type": "taxonomy_term",
+                        "target_uuid": "1f05a18f-debe-473b-ae36-bcbaede72e01",
+                        "url": "\/ar\/taxonomy\/term\/2564",
+                        "taxonomy_term_name": "Social",
+                        "parent": []
+                    }
+                ],
+                "cost": null,
+                "views": {
+                    "count_views": 18
+                },
+                "email": "samc@ksu.edu.sa",
+                "entity_image": null,
+                "featured": false,
+                "finish_date": 1683750197,
+                "geofield": {
+                    "address": "Hamad Al-Jasser Conference Hall, King Saud University",
+                    "lat": 24.717323616489999,
+                    "lon": 46.620394857671997
+                },
+                "image": [
+                    {
+                        "target_id": 40485,
+                        "target_type": "file",
+                        "url": "https:\/\/api.riyadh.sa\/sites\/default\/files\/2023-05\/King%20Saud%20University.jpg",
+                        "preview": {
+                            "medium": "https:\/\/api.riyadh.sa\/sites\/default\/files\/styles\/medium\/public\/2023-05\/King%20Saud%20University.jpg?itok=fu83ja4H",
+                            "thumbnail": "https:\/\/api.riyadh.sa\/sites\/default\/files\/styles\/thumbnail\/public\/2023-05\/King%20Saud%20University.jpg?itok=HETvbJiR"
+                        },
+                        "alt": "archived",
+                        "title": "",
+                        "width": 670,
+                        "height": 447
+                    },
+                    {
+                        "target_id": 40486,
+                        "target_type": "file",
+                        "url": "https:\/\/api.riyadh.sa\/sites\/default\/files\/2023-05\/FvRW-s7WIAIfTZ5.jpeg",
+                        "preview": {
+                            "medium": "https:\/\/api.riyadh.sa\/sites\/default\/files\/styles\/medium\/public\/2023-05\/FvRW-s7WIAIfTZ5.jpeg?itok=XFjGv_h0",
+                            "thumbnail": "https:\/\/api.riyadh.sa\/sites\/default\/files\/styles\/thumbnail\/public\/2023-05\/FvRW-s7WIAIfTZ5.jpeg?itok=0YvcfrHG"
+                        },
+                        "alt": "",
+                        "title": "",
+                        "width": 1164,
+                        "height": 835
+                    }
+                ],
+                "likes": {
+                    "likes": 0,
+                    "state": false
+                },
+                "moderation_status": {
+                    "state": 1,
+                    "reason": ""
+                },
+                "organizer": "Saudi Association for Media and Communication",
+                "other_contacts": null,
+                "phone": "0114679717",
+                "price": {
+                    "type": 0,
+                    "amount": null,
+                    "range": {
+                        "from": null,
+                        "to": null
+                    }
+                },
+                "push": false,
+                "start_date": 1683624197,
+                "tags": [
+                    {
+                        "target_id": 428,
+                        "target_type": "taxonomy_term",
+                        "target_uuid": "8ef38ac5-a8f8-42fc-8a42-f30def1287c3",
+                        "url": "\/en\/taxonomy\/term\/428",
+                        "taxonomy_term_name": "KSU",
+                        "icon_taxonomy": null,
+                        "parent": []
+                    }
+                ],
+                "target_audience": null,
+                "time": {
+                    "start_time": 39600,
+                    "finish_time": 54000
+                },
+                "video": [],
+                "website": {
+                    "uri": "https:\/\/twitter.com\/samcorgsa\/status\/1653805988259016724",
+                    "title": "twitter.com\/samcorgsa",
+                    "options": []
+                },
+                "link": "https:\/\/riyadh.sa\/en\/moment\/events\/item\/event\/23506",
+                "type": "event",
+                "body_summary": ""
+            },
+            {
+                "id": 23504,
+                "langcode": "en",
+                "author": {
+                    "target_id": 886,
+                    "target_type": "user",
+                    "target_uuid": "15a2b1b7-3bb9-43b7-a7c3-f9edfa8f0c9a",
+                    "url": "\/en\/user\/886",
+                    "user_picture": null,
+                    "user_full_name": "Muhammad Waheed",
+                    "twitter_account": null
+                },
+                "title": "Construction Event: The Big 5 Saudi",
+                "created": 1683190751,
+                "updated": 1683201652,
+                "body": "\u003Cp\u003EThe Big 5 Saudi is connecting the construction industry in Saudi Arabia, co-located with \u003Ca href=\u0022https:\/\/www.thebig5saudi.com\/specialised-events\/hvac-r-expo-saudi\/\u0022\u003EHVAC R Expo Saudi\u003C\/a\u003E, \u003Ca href=\u0022https:\/\/www.thebig5saudi.com\/specialised-events\/stone-surface-event\/\u0022\u003EStone \u0026amp; Surface Saudi Arabia\u003C\/a\u003E, \u003Ca href=\u0022https:\/\/www.thebig5saudi.com\/specialised-events\/fm-expo-saudi\/ \u0022\u003EFM Expo Saudi\u003C\/a\u003E, \u003Ca href=\u0022https:\/\/www.windowsdoorsandfacadeseventsaudi.com\/\u0022\u003EWindows, Doors \u0026amp; Facades and Saudi Glass\u003C\/a\u003E, the event showcases products from the complete construction cycle in one place, at one time. Developed for the industry by listening to the industry, the Big 5 Saudi brings The Big 5 brand\u2019s 40+ years\u2019 experience and success to the Kingdom\u2019s bustling construction and infrastructure projects market.\u003C\/p\u003E\n",
+                "category": [
+                    {
+                        "target_id": 83,
+                        "target_type": "taxonomy_term",
+                        "target_uuid": "9ad66ed6-d3b9-4bce-aa44-a82f9e61b2cd",
+                        "url": "\/en\/taxonomy\/term\/83",
+                        "taxonomy_term_name": "Exhibitions \u0026 Festivals",
+                        "parent": []
+                    }
+                ],
+                "cost": null,
+                "views": {
+                    "count_views": 16
+                },
+                "email": "info@thebig5saudi.com",
+                "entity_image": null,
+                "featured": false,
+                "finish_date": 1709240351,
+                "geofield": {
+                    "address": "Riyadh Front Exhibition \u0026 Convention Center",
+                    "lat": 24.834883426687,
+                    "lon": 46.729586215350999
+                },
+                "image": [
+                    {
+                        "target_id": 40482,
+                        "target_type": "file",
+                        "url": "https:\/\/api.riyadh.sa\/sites\/default\/files\/2023-05\/construction%20event%20Screen%20Shot%202023-01-19%20at%209.16.09%20AM.png",
+                        "preview": {
+                            "medium": "https:\/\/api.riyadh.sa\/sites\/default\/files\/styles\/medium\/public\/2023-05\/construction%20event%20Screen%20Shot%202023-01-19%20at%209.16.09%20AM.png?itok=31ljQMMl",
+                            "thumbnail": "https:\/\/api.riyadh.sa\/sites\/default\/files\/styles\/thumbnail\/public\/2023-05\/construction%20event%20Screen%20Shot%202023-01-19%20at%209.16.09%20AM.png?itok=uQARoIQ3"
+                        },
+                        "alt": "",
+                        "title": "",
+                        "width": 895,
+                        "height": 495
+                    }
+                ],
+                "likes": {
+                    "likes": 0,
+                    "state": false
+                },
+                "moderation_status": {
+                    "state": 1,
+                    "reason": ""
+                },
+                "organizer": "DMG Events LLC Ltd",
+                "other_contacts": null,
+                "phone": "",
+                "price": {
+                    "type": 0,
+                    "amount": null,
+                    "range": {
+                        "from": null,
+                        "to": null
+                    }
+                },
+                "push": false,
+                "start_date": 1708937951,
+                "tags": [
+                    {
+                        "target_id": 6396,
+                        "target_type": "taxonomy_term",
+                        "target_uuid": "f8cfcb81-2266-410a-9e7f-bdd0e4399a22",
+                        "url": "\/en\/taxonomy\/term\/6396",
+                        "taxonomy_term_name": "Construction Events in Riyadh",
+                        "icon_taxonomy": null,
+                        "parent": []
+                    },
+                    {
+                        "target_id": 5565,
+                        "target_type": "taxonomy_term",
+                        "target_uuid": "9071b846-67b9-4294-8baf-99424cf7a17f",
+                        "url": "\/en\/taxonomy\/term\/5565",
+                        "taxonomy_term_name": "Exhibitions in Riyadh",
+                        "icon_taxonomy": null,
+                        "parent": []
+                    }
+                ],
+                "target_audience": null,
+                "time": {
+                    "start_time": 57600,
+                    "finish_time": 79200
+                },
+                "video": [],
+                "website": {
+                    "uri": "https:\/\/www.thebig5saudi.com\/",
+                    "title": "thebig5saudi.com",
+                    "options": []
+                },
+                "link": "https:\/\/riyadh.sa\/en\/moment\/events\/item\/event\/23504",
+                "type": "event",
+                "body_summary": ""
+            },
+            {
+                "id": 23493,
+                "langcode": "en",
+                "author": {
+                    "target_id": 886,
+                    "target_type": "user",
+                    "target_uuid": "15a2b1b7-3bb9-43b7-a7c3-f9edfa8f0c9a",
+                    "url": "\/en\/user\/886",
+                    "user_picture": null,
+                    "user_full_name": "Muhammad Waheed",
+                    "twitter_account": null
+                },
+                "title": "Green Riyadh: Afforestation of Al-Uraija Neighborhood",
+                "created": 1683015319,
+                "updated": 1683286755,
+                "body": "\u003Cp\u003EVisit the event by \u0022Green Riyadh\u0022 project and learn about the future vision of afforestation in\u0026nbsp;Al-Uraija residential\u0026nbsp;neighborhood.\u0026nbsp;\u003C\/p\u003E\n\n\u003Cp\u003EGreen Riyadh program targets afforestation of more than 120 residential neighborhoods. The designs for afforestation work have been developed based on international standards that took into account the local environment. The project\u0026nbsp;includes planting 7.5 million trees across the capital and it will contribute to an increase in per capita green space from 1.7 square meters to 28 square meters, and increase the total green space in the city to 9% or 545 square kilometers.\u003C\/p\u003E\n",
+                "category": [
+                    {
+                        "target_id": 83,
+                        "target_type": "taxonomy_term",
+                        "target_uuid": "9ad66ed6-d3b9-4bce-aa44-a82f9e61b2cd",
+                        "url": "\/en\/taxonomy\/term\/83",
+                        "taxonomy_term_name": "Exhibitions \u0026 Festivals",
+                        "parent": []
+                    }
+                ],
+                "cost": null,
+                "views": {
+                    "count_views": 26
+                },
+                "email": null,
+                "entity_image": null,
+                "featured": false,
+                "finish_date": 1684008919,
+                "geofield": {
+                    "address": "Green Riyadh (Afforestation of Al-Uraija Neighborhood)",
+                    "lat": 24.598144741803999,
+                    "lon": 46.633614582210001
+                },
+                "image": [
+                    {
+                        "target_id": 40459,
+                        "target_type": "file",
+                        "url": "https:\/\/api.riyadh.sa\/sites\/default\/files\/2023-05\/Screen%20Shot%202023-05-02%20at%2011.19.16%20AM.png",
+                        "preview": {
+                            "medium": "https:\/\/api.riyadh.sa\/sites\/default\/files\/styles\/medium\/public\/2023-05\/Screen%20Shot%202023-05-02%20at%2011.19.16%20AM.png?itok=IpJBJaWK",
+                            "thumbnail": "https:\/\/api.riyadh.sa\/sites\/default\/files\/styles\/thumbnail\/public\/2023-05\/Screen%20Shot%202023-05-02%20at%2011.19.16%20AM.png?itok=6ZqhrgwA"
+                        },
+                        "alt": "",
+                        "title": "",
+                        "width": 1567,
+                        "height": 967
+                    },
+                    {
+                        "target_id": 40460,
+                        "target_type": "file",
+                        "url": "https:\/\/api.riyadh.sa\/sites\/default\/files\/2023-05\/FvB3D-iXgAATu9u.jpeg",
+                        "preview": {
+                            "medium": "https:\/\/api.riyadh.sa\/sites\/default\/files\/styles\/medium\/public\/2023-05\/FvB3D-iXgAATu9u.jpeg?itok=NmvTshX0",
+                            "thumbnail": "https:\/\/api.riyadh.sa\/sites\/default\/files\/styles\/thumbnail\/public\/2023-05\/FvB3D-iXgAATu9u.jpeg?itok=j9e0KGJI"
+                        },
+                        "alt": "",
+                        "title": "",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "target_id": 40461,
+                        "target_type": "file",
+                        "url": "https:\/\/api.riyadh.sa\/sites\/default\/files\/2023-05\/FvDB8G8WAAI2KLN.jpeg",
+                        "preview": {
+                            "medium": "https:\/\/api.riyadh.sa\/sites\/default\/files\/styles\/medium\/public\/2023-05\/FvDB8G8WAAI2KLN.jpeg?itok=xBNyPyBV",
+                            "thumbnail": "https:\/\/api.riyadh.sa\/sites\/default\/files\/styles\/thumbnail\/public\/2023-05\/FvDB8G8WAAI2KLN.jpeg?itok=Zr714eGr"
+                        },
+                        "alt": "",
+                        "title": "",
+                        "width": 1920,
+                        "height": 1080
+                    }
+                ],
+                "likes": {
+                    "likes": 0,
+                    "state": false
+                },
+                "moderation_status": {
+                    "state": 1,
+                    "reason": ""
+                },
+                "organizer": "Project \u201cGreen Riyadh\u201d",
+                "other_contacts": null,
+                "phone": "",
+                "price": {
+                    "type": 0,
+                    "amount": null,
+                    "range": {
+                        "from": null,
+                        "to": null
+                    }
+                },
+                "push": false,
+                "start_date": 1683188119,
+                "tags": [
+                    {
+                        "target_id": 3197,
+                        "target_type": "taxonomy_term",
+                        "target_uuid": "1d73130d-73b6-4cb2-afae-b956b4d39cbb",
+                        "url": "\/ar\/taxonomy\/term\/3197",
+                        "taxonomy_term_name": "Green Riyadh",
+                        "icon_taxonomy": null,
+                        "parent": []
+                    },
+                    {
+                        "target_id": 4846,
+                        "target_type": "taxonomy_term",
+                        "target_uuid": "35e87562-1d50-4dc9-badc-ef5b7ff684f5",
+                        "url": "\/en\/taxonomy\/term\/4846",
+                        "taxonomy_term_name": "Saudi Green Initiative",
+                        "icon_taxonomy": null,
+                        "parent": []
+                    },
+                    {
+                        "target_id": 6984,
+                        "target_type": "taxonomy_term",
+                        "target_uuid": "3f264f91-c67d-449c-b734-7aa31e688621",
+                        "url": "\/en\/taxonomy\/term\/6984",
+                        "taxonomy_term_name": "Urban greening works in Riyadh",
+                        "icon_taxonomy": null,
+                        "parent": []
+                    }
+                ],
+                "target_audience": null,
+                "time": {
+                    "start_time": 28800,
+                    "finish_time": 68400
+                },
+                "video": [],
+                "website": {
+                    "uri": "https:\/\/twitter.com\/GreenRiyadh_SA",
+                    "title": "twitter.com\/GreenRiyadh_SA",
+                    "options": []
+                },
+                "link": "https:\/\/riyadh.sa\/en\/moment\/events\/item\/event\/23493",
+                "type": "event",
+                "body_summary": ""
+            },
+            {
+                "id": 23490,
+                "langcode": "en",
+                "author": {
+                    "target_id": 886,
+                    "target_type": "user",
+                    "target_uuid": "15a2b1b7-3bb9-43b7-a7c3-f9edfa8f0c9a",
+                    "url": "\/en\/user\/886",
+                    "user_picture": null,
+                    "user_full_name": "Muhammad Waheed",
+                    "twitter_account": null
+                },
+                "title": "Shrek The Musical",
+                "created": 1682958201,
+                "updated": 1683015221,
+                "body": "\u003Cp\u003EShrek The Musical is based on the Oscar\u00ae-winning DreamWorks Animation film that started it all and is eagerly awaited by Riyadh\u0027s families and theatre enthusiasts, having already won not only many awards in various cities around the world but also the hearts of audiences everywhere. It is organized by the Royal Commission for Riyadh City and presented by DreamWorks Theatricals \u0026amp; Broadway Entertainment Group. This brilliant and fun-filled musical runs for 16 performances and is based on the all-star 2001 blockbuster Hollywood movie. Enjoy an amazing experience with your families, friends and loved ones.\u0026nbsp; Play will only be in English language.\u003C\/p\u003E\n\n\u003Cp dir=\u0022ltr\u0022\u003E\u003Ca href=\u0022https:\/\/shrekthemusicalinriyadh.com\/\/o\/588\u0022 style=\u0022display: inline-block;padding: 20px 10px; width:150px;  margin-bottom: 0;\n   font-size: 14px; font-weight: 400; line-height: 1.5;\n   text-align: center; vertical-align: middle;     -ms-touch-action: manipulation;\n   touch-action: manipulation; cursor: pointer;\n   -webkit-user-select: none;  -moz-user-select: none;\n   -ms-user-select: none; user-select: none;\n   text-decoration: none;\n   color: #fff;\n   background-color:#cc6666;\n   border-color: #cc6666;\u0022\u003EBook Now\u003C\/a\u003E\u003C\/p\u003E\n",
+                "category": [
+                    {
+                        "target_id": 2563,
+                        "target_type": "taxonomy_term",
+                        "target_uuid": "1d6fd013-7969-49a6-8b1e-a028910889f5",
+                        "url": "\/ar\/taxonomy\/term\/2563",
+                        "taxonomy_term_name": "Entertainment",
+                        "parent": []
+                    },
+                    {
+                        "target_id": 85,
+                        "target_type": "taxonomy_term",
+                        "target_uuid": "38757c54-7eb4-434b-93d4-f941b03df382",
+                        "url": "\/en\/taxonomy\/term\/85",
+                        "taxonomy_term_name": "Kids \u0026 Family",
+                        "parent": []
+                    }
+                ],
+                "cost": null,
+                "views": {
+                    "count_views": 43
+                },
+                "email": null,
+                "entity_image": null,
+                "featured": false,
+                "finish_date": 1684009401,
+                "geofield": {
+                    "address": "The Arena Riyadh Venue for Exhibitions",
+                    "lat": 24.777820648631,
+                    "lon": 46.731702299048997
+                },
+                "image": [
+                    {
+                        "target_id": 40454,
+                        "target_type": "file",
+                        "url": "https:\/\/api.riyadh.sa\/sites\/default\/files\/2023-05\/Screen%20Shot%202023-05-01%20at%2012.29.50%20PM.png",
+                        "preview": {
+                            "medium": "https:\/\/api.riyadh.sa\/sites\/default\/files\/styles\/medium\/public\/2023-05\/Screen%20Shot%202023-05-01%20at%2012.29.50%20PM.png?itok=QMT11I7r",
+                            "thumbnail": "https:\/\/api.riyadh.sa\/sites\/default\/files\/styles\/thumbnail\/public\/2023-05\/Screen%20Shot%202023-05-01%20at%2012.29.50%20PM.png?itok=f2ccOOV2"
+                        },
+                        "alt": "",
+                        "title": "",
+                        "width": 1661,
+                        "height": 1080
+                    },
+                    {
+                        "target_id": 40455,
+                        "target_type": "file",
+                        "url": "https:\/\/api.riyadh.sa\/sites\/default\/files\/2023-05\/Buying-the-TICKET.jpg",
+                        "preview": {
+                            "medium": "https:\/\/api.riyadh.sa\/sites\/default\/files\/styles\/medium\/public\/2023-05\/Buying-the-TICKET.jpg?itok=W8yLnwdd",
+                            "thumbnail": "https:\/\/api.riyadh.sa\/sites\/default\/files\/styles\/thumbnail\/public\/2023-05\/Buying-the-TICKET.jpg?itok=I4QA1ptK"
+                        },
+                        "alt": "",
+                        "title": "",
+                        "width": 1376,
+                        "height": 1080
+                    }
+                ],
+                "likes": {
+                    "likes": 0,
+                    "state": false
+                },
+                "moderation_status": {
+                    "state": 1,
+                    "reason": ""
+                },
+                "organizer": "Royal Commission for Riyadh City",
+                "other_contacts": null,
+                "phone": "",
+                "price": {
+                    "type": 0,
+                    "amount": null,
+                    "range": {
+                        "from": null,
+                        "to": null
+                    }
+                },
+                "push": false,
+                "start_date": 1682958201,
+                "tags": [
+                    {
+                        "target_id": 6971,
+                        "target_type": "taxonomy_term",
+                        "target_uuid": "6eb1545c-f372-498b-bb6a-2402429456bf",
+                        "url": "\/en\/taxonomy\/term\/6971",
+                        "taxonomy_term_name": "DreamWorks\u0027 Shrek The Musical in Riyadh",
+                        "icon_taxonomy": null,
+                        "parent": []
+                    },
+                    {
+                        "target_id": 6972,
+                        "target_type": "taxonomy_term",
+                        "target_uuid": "e6e48044-e618-41cb-95c6-987b524cb2a6",
+                        "url": "\/en\/taxonomy\/term\/6972",
+                        "taxonomy_term_name": "DreamWorks Theatricals \u0026 Broadway Entertainment Group",
+                        "icon_taxonomy": null,
+                        "parent": []
+                    },
+                    {
+                        "target_id": 5960,
+                        "target_type": "taxonomy_term",
+                        "target_uuid": "c6532557-7307-4691-bf07-504c05224c56",
+                        "url": "\/en\/taxonomy\/term\/5960",
+                        "taxonomy_term_name": "entertainment events in Riyadh",
+                        "icon_taxonomy": null,
+                        "parent": []
+                    },
+                    {
+                        "target_id": 3511,
+                        "target_type": "taxonomy_term",
+                        "target_uuid": "2516026b-dcee-4164-9803-4772a20820f6",
+                        "url": "\/ar\/taxonomy\/term\/3511",
+                        "taxonomy_term_name": "Royal Commission for Riyadh City",
+                        "icon_taxonomy": null,
+                        "parent": []
+                    }
+                ],
+                "target_audience": null,
+                "time": {
+                    "start_time": 54000,
+                    "finish_time": 77400
+                },
+                "video": [],
+                "website": {
+                    "uri": "https:\/\/shrekthemusicalinriyadh.com\/\/o\/588",
+                    "title": "shrekthemusicalinriyadh.com",
+                    "options": []
+                },
+                "link": "https:\/\/riyadh.sa\/en\/moment\/events\/item\/event\/23490",
+                "type": "event",
+                "body_summary": ""
+            },
+            {
+                "id": 23486,
+                "langcode": "en",
+                "author": {
+                    "target_id": 886,
+                    "target_type": "user",
+                    "target_uuid": "15a2b1b7-3bb9-43b7-a7c3-f9edfa8f0c9a",
+                    "url": "\/en\/user\/886",
+                    "user_picture": null,
+                    "user_full_name": "Muhammad Waheed",
+                    "twitter_account": null
+                },
+                "title": "International Museum Day ",
+                "created": 1682936912,
+                "updated": 1683016949,
+                "body": "\u003Cp\u003ECoinciding with International Museum Day on May 18, Saudi National Museum organizes bundle of Museum activities, from May 18 to 19, that a celebration of the International Museum Day, three cultural dialogue meetings and a workshop, all of which cover a range of topics, including \u201cMuseum as a Community Activator\u201d, which will discuss the heritage preserved by museums, which reflects the progress of society, through humanities and art themes that take into account aspects of social and mental health, \u0022Museum as an Inspiring Source\u0022, which will shed light on the role of the museum in enhancing the creative experience and its ability to inspire, as well as \u0022The Arabian Peninsula as an Open Museum\u0022, which will review the beauty inherent in this land and its heritage, along with two workshops titled \u0022The Past is an Extended Rope\u0022, targeting adults and youths, and reflecting on the relationship between the past and the present. These activities are part of the programmes organized by the National Museum targeting various segments of society through interactive activities, including: live performances, workshops, dialogue sessions, as well as activities related to national events with the aim of providing attractive cultural content and an integrated museum experience for its visitors.\u0026nbsp;Visiting hours start from 8 to 10 pm on Thursday, and from 5 pm to 10 pm on Friday.\u003C\/p\u003E\n\n\u003Cp\u003E\u0026nbsp;\u003C\/p\u003E\n\n\u003Cp\u003E\u0026nbsp;\u003C\/p\u003E\n",
+                "category": [
+                    {
+                        "target_id": 83,
+                        "target_type": "taxonomy_term",
+                        "target_uuid": "9ad66ed6-d3b9-4bce-aa44-a82f9e61b2cd",
+                        "url": "\/en\/taxonomy\/term\/83",
+                        "taxonomy_term_name": "Exhibitions \u0026 Festivals",
+                        "parent": []
+                    },
+                    {
+                        "target_id": 85,
+                        "target_type": "taxonomy_term",
+                        "target_uuid": "38757c54-7eb4-434b-93d4-f941b03df382",
+                        "url": "\/en\/taxonomy\/term\/85",
+                        "taxonomy_term_name": "Kids \u0026 Family",
+                        "parent": []
+                    }
+                ],
+                "cost": null,
+                "views": {
+                    "count_views": 19
+                },
+                "email": null,
+                "entity_image": null,
+                "featured": false,
+                "finish_date": 1684528112,
+                "geofield": {
+                    "address": "National Museum of Saudi Arabia, Riyadh",
+                    "lat": 24.647713158317998,
+                    "lon": 46.710691117288
+                },
+                "image": [
+                    {
+                        "target_id": 40445,
+                        "target_type": "file",
+                        "url": "https:\/\/api.riyadh.sa\/sites\/default\/files\/2023-05\/Museum%2021.jpeg",
+                        "preview": {
+                            "medium": "https:\/\/api.riyadh.sa\/sites\/default\/files\/styles\/medium\/public\/2023-05\/Museum%2021.jpeg?itok=pJUUp1Fs",
+                            "thumbnail": "https:\/\/api.riyadh.sa\/sites\/default\/files\/styles\/thumbnail\/public\/2023-05\/Museum%2021.jpeg?itok=7Uhia3KL"
+                        },
+                        "alt": "",
+                        "title": "",
+                        "width": 1200,
+                        "height": 795
+                    },
+                    {
+                        "target_id": 40444,
+                        "target_type": "file",
+                        "url": "https:\/\/api.riyadh.sa\/sites\/default\/files\/2023-05\/Saudi%20Museum%20Timings.jpeg",
+                        "preview": {
+                            "medium": "https:\/\/api.riyadh.sa\/sites\/default\/files\/styles\/medium\/public\/2023-05\/Saudi%20Museum%20Timings.jpeg?itok=E5WwatXy",
+                            "thumbnail": "https:\/\/api.riyadh.sa\/sites\/default\/files\/styles\/thumbnail\/public\/2023-05\/Saudi%20Museum%20Timings.jpeg?itok=oxDWkqEF"
+                        },
+                        "alt": "",
+                        "title": "",
+                        "width": 1890,
+                        "height": 1080
+                    }
+                ],
+                "likes": {
+                    "likes": 0,
+                    "state": false
+                },
+                "moderation_status": {
+                    "state": 1,
+                    "reason": ""
+                },
+                "organizer": "The National Museum",
+                "other_contacts": null,
+                "phone": "",
+                "price": {
+                    "type": 0,
+                    "amount": null,
+                    "range": {
+                        "from": null,
+                        "to": null
+                    }
+                },
+                "push": false,
+                "start_date": 1684405712,
+                "tags": [
+                    {
+                        "target_id": 6962,
+                        "target_type": "taxonomy_term",
+                        "target_uuid": "7c534ed0-3b33-4aba-8ed9-7db742fd1dbd",
+                        "url": "\/en\/taxonomy\/term\/6962",
+                        "taxonomy_term_name": "International Museum Day ",
+                        "icon_taxonomy": null,
+                        "parent": []
+                    },
+                    {
+                        "target_id": 370,
+                        "target_type": "taxonomy_term",
+                        "target_uuid": "48b7ca3d-a8e1-4f80-a406-fadcb7841ad3",
+                        "url": "\/en\/taxonomy\/term\/370",
+                        "taxonomy_term_name": "National Museum",
+                        "icon_taxonomy": null,
+                        "parent": []
+                    }
+                ],
+                "target_audience": null,
+                "time": {
+                    "start_time": 61200,
+                    "finish_time": 79200
+                },
+                "video": [],
+                "website": {
+                    "uri": "https:\/\/www.spa.gov.sa\/viewstory.php?lang=ar\u0026newsid=2447587",
+                    "title": "spa.gov.sa",
+                    "options": []
+                },
+                "link": "https:\/\/riyadh.sa\/en\/moment\/events\/item\/event\/23486",
+                "type": "event",
+                "body_summary": ""
+            },
+            {
+                "id": 23476,
+                "langcode": "en",
+                "author": {
+                    "target_id": 886,
+                    "target_type": "user",
+                    "target_uuid": "15a2b1b7-3bb9-43b7-a7c3-f9edfa8f0c9a",
+                    "url": "\/en\/user\/886",
+                    "user_picture": null,
+                    "user_full_name": "Muhammad Waheed",
+                    "twitter_account": null
+                },
+                "title": "Turf Games competitions",
+                "created": 1682835326,
+                "updated": 1682865430,
+                "body": "\u003Cp\u003EFor the fitness community, Turf Games experience has been organized alongside \u003Ca href=\u0022https:\/\/riyadh.sa\/en\/events\/all\/item\/event\/23471\u0022\u003ESFA Expo\u003C\/a\u003E on Friday 19th May at Riyadh Front. This event is open to EVERYONE and ANYONE to enter - no matter what your level of fitness - come along and have some fun with Turf Games at the \u003Ca href=\u0022https:\/\/riyadh.sa\/en\/events\/all\/item\/event\/23471\u0022\u003ESFA Expo 2023\u003C\/a\u003E.\u003C\/p\u003E\n\n\u003Cp dir=\u0022ltr\u0022\u003E\u003Ca href=\u0022https:\/\/turfgames.com\/blogs\/other\/turf-games-sfa-expo-23\u0022 style=\u0022display: inline-block;padding: 20px 10px; width:150px;  margin-bottom: 0;\n   font-size: 14px; font-weight: 400; line-height: 1.5;\n   text-align: center; vertical-align: middle;     -ms-touch-action: manipulation;\n   touch-action: manipulation; cursor: pointer;\n   -webkit-user-select: none;  -moz-user-select: none;\n   -ms-user-select: none; user-select: none;\n   text-decoration: none;\n   color: #fff;\n   background-color:#cc6666;\n   border-color: #cc6666;\u0022\u003ERegister Now\u003C\/a\u003E\u003C\/p\u003E\n",
+                "category": [
+                    {
+                        "target_id": 2564,
+                        "target_type": "taxonomy_term",
+                        "target_uuid": "1f05a18f-debe-473b-ae36-bcbaede72e01",
+                        "url": "\/ar\/taxonomy\/term\/2564",
+                        "taxonomy_term_name": "Social",
+                        "parent": []
+                    }
+                ],
+                "cost": null,
+                "views": {
+                    "count_views": 16
+                },
+                "email": "caroline@turfgames.com",
+                "entity_image": null,
+                "featured": false,
+                "finish_date": 1684476926,
+                "geofield": {
+                    "address": "Riyadh Front, SFA Expo 2023",
+                    "lat": 24.834911147414999,
+                    "lon": 46.729515204251001
+                },
+                "image": [
+                    {
+                        "target_id": 40424,
+                        "target_type": "file",
+                        "url": "https:\/\/api.riyadh.sa\/sites\/default\/files\/2023-04\/Screen%20Shot%202023-04-30%20at%202.27.14%20AM.png",
+                        "preview": {
+                            "medium": "https:\/\/api.riyadh.sa\/sites\/default\/files\/styles\/medium\/public\/2023-04\/Screen%20Shot%202023-04-30%20at%202.27.14%20AM.png?itok=5KupIfU_",
+                            "thumbnail": "https:\/\/api.riyadh.sa\/sites\/default\/files\/styles\/thumbnail\/public\/2023-04\/Screen%20Shot%202023-04-30%20at%202.27.14%20AM.png?itok=ZbV7KH5c"
+                        },
+                        "alt": "",
+                        "title": "",
+                        "width": 1920,
+                        "height": 892
+                    }
+                ],
+                "likes": {
+                    "likes": 0,
+                    "state": false
+                },
+                "moderation_status": {
+                    "state": 1,
+                    "reason": ""
+                },
+                "organizer": "Turf Games",
+                "other_contacts": null,
+                "phone": "",
+                "price": {
+                    "type": 0,
+                    "amount": null,
+                    "range": {
+                        "from": null,
+                        "to": null
+                    }
+                },
+                "push": false,
+                "start_date": 1684476926,
+                "tags": [
+                    {
+                        "target_id": 6955,
+                        "target_type": "taxonomy_term",
+                        "target_uuid": "b3d380d6-4b29-4c36-87a4-2f917e32b571",
+                        "url": "\/en\/taxonomy\/term\/6955",
+                        "taxonomy_term_name": "Turf Games competitions in Riyadh",
+                        "icon_taxonomy": null,
+                        "parent": []
+                    },
+                    {
+                        "target_id": 6953,
+                        "target_type": "taxonomy_term",
+                        "target_uuid": "23fa46fb-1e0b-4ff2-8de3-9f05985da7ef",
+                        "url": "\/en\/taxonomy\/term\/6953",
+                        "taxonomy_term_name": "Sports \u0026 Fitness event in Riyadh",
+                        "icon_taxonomy": null,
+                        "parent": []
+                    },
+                    {
+                        "target_id": 6952,
+                        "target_type": "taxonomy_term",
+                        "target_uuid": "0e00ffd7-6188-4788-b9ab-6584a1767347",
+                        "url": "\/en\/taxonomy\/term\/6952",
+                        "taxonomy_term_name": "Sports for All",
+                        "icon_taxonomy": null,
+                        "parent": []
+                    }
+                ],
+                "target_audience": null,
+                "time": {
+                    "start_time": 32400,
+                    "finish_time": 72000
+                },
+                "video": [],
+                "website": {
+                    "uri": "https:\/\/turfgames.com\/blogs\/other\/turf-games-sfa-expo-23",
+                    "title": "turfgames.com",
+                    "options": []
+                },
+                "link": "https:\/\/riyadh.sa\/en\/moment\/events\/item\/event\/23476",
+                "type": "event",
+                "body_summary": ""
+            },
+            {
+                "id": 23471,
+                "langcode": "en",
+                "author": {
+                    "target_id": 886,
+                    "target_type": "user",
+                    "target_uuid": "15a2b1b7-3bb9-43b7-a7c3-f9edfa8f0c9a",
+                    "url": "\/en\/user\/886",
+                    "user_picture": null,
+                    "user_full_name": "Muhammad Waheed",
+                    "twitter_account": null
+                },
+                "title": "SFA Expo",
+                "created": 1682759884,
+                "updated": 1682866311,
+                "body": "\u003Cp\u003EThe SFA Expo is a 3-day event to discover established global and regional brands and services that are making waves in the sports, wellness, and fitness industries. This event brings together industry professionals, athletes, coaches, and fitness enthusiasts from around the world to share their knowledge and expertise. The SFA EXPO is the first of its kind \u0022Sport For All EXPO\u0022 in the region, offering something for everyone to discover new ways to take care of their mind and body. SFA Expo offers the perfect opportunity to network with industry experts, establish grassroots connections, and tap into the growing Saudi market. From networking to learning, exploring to playing, and even competing, the Expo is your ultimate destination.\u0026nbsp;It will also host the CSGs Awarding Ceremony to recognize the outstanding efforts of Community Sport Groups (CSGs).\u003C\/p\u003E\n\n\u003Cp dir=\u0022ltr\u0022\u003E\u003Ca href=\u0022https:\/\/sportsforall.com.sa\/expo\/\u0022 style=\u0022display: inline-block;padding: 20px 10px; width:150px;  margin-bottom: 0;\n   font-size: 14px; font-weight: 400; line-height: 1.5;\n   text-align: center; vertical-align: middle;     -ms-touch-action: manipulation;\n   touch-action: manipulation; cursor: pointer;\n   -webkit-user-select: none;  -moz-user-select: none;\n   -ms-user-select: none; user-select: none;\n   text-decoration: none;\n   color: #fff;\n   background-color:#cc6666;\n   border-color: #cc6666;\u0022\u003EBook Now\u003C\/a\u003E\u003C\/p\u003E\n",
+                "category": [
+                    {
+                        "target_id": 2564,
+                        "target_type": "taxonomy_term",
+                        "target_uuid": "1f05a18f-debe-473b-ae36-bcbaede72e01",
+                        "url": "\/ar\/taxonomy\/term\/2564",
+                        "taxonomy_term_name": "Social",
+                        "parent": []
+                    }
+                ],
+                "cost": null,
+                "views": {
+                    "count_views": 21
+                },
+                "email": null,
+                "entity_image": null,
+                "featured": false,
+                "finish_date": 1684613884,
+                "geofield": {
+                    "address": "Riyadh Front Expo",
+                    "lat": 24.834911147414701,
+                    "lon": 46.729515204250653
+                },
+                "image": [
+                    {
+                        "target_id": 40413,
+                        "target_type": "file",
+                        "url": "https:\/\/api.riyadh.sa\/sites\/default\/files\/2023-04\/Screen%20Shot%202023-04-29%20at%205.41.01%20AM.png",
+                        "preview": {
+                            "medium": "https:\/\/api.riyadh.sa\/sites\/default\/files\/styles\/medium\/public\/2023-04\/Screen%20Shot%202023-04-29%20at%205.41.01%20AM.png?itok=Ofpd0-Bg",
+                            "thumbnail": "https:\/\/api.riyadh.sa\/sites\/default\/files\/styles\/thumbnail\/public\/2023-04\/Screen%20Shot%202023-04-29%20at%205.41.01%20AM.png?itok=meREJuJY"
+                        },
+                        "alt": "",
+                        "title": "",
+                        "width": 1920,
+                        "height": 622
+                    },
+                    {
+                        "target_id": 40404,
+                        "target_type": "file",
+                        "url": "https:\/\/api.riyadh.sa\/sites\/default\/files\/2023-04\/blue.jpg",
+                        "preview": {
+                            "medium": "https:\/\/api.riyadh.sa\/sites\/default\/files\/styles\/medium\/public\/2023-04\/blue.jpg?itok=duT7B_yn",
+                            "thumbnail": "https:\/\/api.riyadh.sa\/sites\/default\/files\/styles\/thumbnail\/public\/2023-04\/blue.jpg?itok=Uk7KGPze"
+                        },
+                        "alt": "",
+                        "title": "",
+                        "width": 960,
+                        "height": 540
+                    },
+                    {
+                        "target_id": 40405,
+                        "target_type": "file",
+                        "url": "https:\/\/api.riyadh.sa\/sites\/default\/files\/2023-04\/Hero_h.jpg",
+                        "preview": {
+                            "medium": "https:\/\/api.riyadh.sa\/sites\/default\/files\/styles\/medium\/public\/2023-04\/Hero_h.jpg?itok=AA6Xrx7i",
+                            "thumbnail": "https:\/\/api.riyadh.sa\/sites\/default\/files\/styles\/thumbnail\/public\/2023-04\/Hero_h.jpg?itok=YoGfES4Z"
+                        },
+                        "alt": "",
+                        "title": "",
+                        "width": 960,
+                        "height": 540
+                    },
+                    {
+                        "target_id": 40406,
+                        "target_type": "file",
+                        "url": "https:\/\/api.riyadh.sa\/sites\/default\/files\/2023-04\/map-01-2-1.png",
+                        "preview": {
+                            "medium": "https:\/\/api.riyadh.sa\/sites\/default\/files\/styles\/medium\/public\/2023-04\/map-01-2-1.png?itok=OGMJV5an",
+                            "thumbnail": "https:\/\/api.riyadh.sa\/sites\/default\/files\/styles\/thumbnail\/public\/2023-04\/map-01-2-1.png?itok=6WlWB-2b"
+                        },
+                        "alt": "",
+                        "title": "",
+                        "width": 960,
+                        "height": 540
+                    },
+                    {
+                        "target_id": 40407,
+                        "target_type": "file",
+                        "url": "https:\/\/api.riyadh.sa\/sites\/default\/files\/2023-04\/purple.jpg",
+                        "preview": {
+                            "medium": "https:\/\/api.riyadh.sa\/sites\/default\/files\/styles\/medium\/public\/2023-04\/purple.jpg?itok=vl4yhsEW",
+                            "thumbnail": "https:\/\/api.riyadh.sa\/sites\/default\/files\/styles\/thumbnail\/public\/2023-04\/purple.jpg?itok=etO6zF6p"
+                        },
+                        "alt": "",
+                        "title": "",
+                        "width": 960,
+                        "height": 540
+                    },
+                    {
+                        "target_id": 40408,
+                        "target_type": "file",
+                        "url": "https:\/\/api.riyadh.sa\/sites\/default\/files\/2023-04\/red.jpg",
+                        "preview": {
+                            "medium": "https:\/\/api.riyadh.sa\/sites\/default\/files\/styles\/medium\/public\/2023-04\/red.jpg?itok=BX1WHOFw",
+                            "thumbnail": "https:\/\/api.riyadh.sa\/sites\/default\/files\/styles\/thumbnail\/public\/2023-04\/red.jpg?itok=ltk86gdz"
+                        },
+                        "alt": "",
+                        "title": "",
+                        "width": 960,
+                        "height": 540
+                    },
+                    {
+                        "target_id": 40409,
+                        "target_type": "file",
+                        "url": "https:\/\/api.riyadh.sa\/sites\/default\/files\/2023-04\/yellow.jpg",
+                        "preview": {
+                            "medium": "https:\/\/api.riyadh.sa\/sites\/default\/files\/styles\/medium\/public\/2023-04\/yellow.jpg?itok=rXWtyDiu",
+                            "thumbnail": "https:\/\/api.riyadh.sa\/sites\/default\/files\/styles\/thumbnail\/public\/2023-04\/yellow.jpg?itok=ZnTLSZJ5"
+                        },
+                        "alt": "",
+                        "title": "",
+                        "width": 960,
+                        "height": 540
+                    },
+                    {
+                        "target_id": 40410,
+                        "target_type": "file",
+                        "url": "https:\/\/api.riyadh.sa\/sites\/default\/files\/2023-04\/Ftc7ubqXgAAsvrL.jpeg",
+                        "preview": {
+                            "medium": "https:\/\/api.riyadh.sa\/sites\/default\/files\/styles\/medium\/public\/2023-04\/Ftc7ubqXgAAsvrL.jpeg?itok=D--2iJXv",
+                            "thumbnail": "https:\/\/api.riyadh.sa\/sites\/default\/files\/styles\/thumbnail\/public\/2023-04\/Ftc7ubqXgAAsvrL.jpeg?itok=MOA092-T"
+                        },
+                        "alt": "",
+                        "title": "",
+                        "width": 1080,
+                        "height": 1080
+                    },
+                    {
+                        "target_id": 40411,
+                        "target_type": "file",
+                        "url": "https:\/\/api.riyadh.sa\/sites\/default\/files\/2023-04\/Ftc702-X0Actzn-.jpeg",
+                        "preview": {
+                            "medium": "https:\/\/api.riyadh.sa\/sites\/default\/files\/styles\/medium\/public\/2023-04\/Ftc702-X0Actzn-.jpeg?itok=a6TssrZH",
+                            "thumbnail": "https:\/\/api.riyadh.sa\/sites\/default\/files\/styles\/thumbnail\/public\/2023-04\/Ftc702-X0Actzn-.jpeg?itok=91ehczHn"
+                        },
+                        "alt": "",
+                        "title": "",
+                        "width": 1080,
+                        "height": 1080
+                    },
+                    {
+                        "target_id": 40412,
+                        "target_type": "file",
+                        "url": "https:\/\/api.riyadh.sa\/sites\/default\/files\/2023-04\/Ftr9qdkWAAIupoi.jpeg",
+                        "preview": {
+                            "medium": "https:\/\/api.riyadh.sa\/sites\/default\/files\/styles\/medium\/public\/2023-04\/Ftr9qdkWAAIupoi.jpeg?itok=CFzpe7rY",
+                            "thumbnail": "https:\/\/api.riyadh.sa\/sites\/default\/files\/styles\/thumbnail\/public\/2023-04\/Ftr9qdkWAAIupoi.jpeg?itok=dPqsNqUm"
+                        },
+                        "alt": "",
+                        "title": "",
+                        "width": 1080,
+                        "height": 1080
+                    }
+                ],
+                "likes": {
+                    "likes": 0,
+                    "state": false
+                },
+                "moderation_status": {
+                    "state": 1,
+                    "reason": ""
+                },
+                "organizer": "Saudi Sports for All Federation (SFA)",
+                "other_contacts": null,
+                "phone": "",
+                "price": {
+                    "type": 0,
+                    "amount": null,
+                    "range": {
+                        "from": null,
+                        "to": null
+                    }
+                },
+                "push": false,
+                "start_date": 1684401484,
+                "tags": [
+                    {
+                        "target_id": 6952,
+                        "target_type": "taxonomy_term",
+                        "target_uuid": "0e00ffd7-6188-4788-b9ab-6584a1767347",
+                        "url": "\/en\/taxonomy\/term\/6952",
+                        "taxonomy_term_name": "Sports for All",
+                        "icon_taxonomy": null,
+                        "parent": []
+                    },
+                    {
+                        "target_id": 6953,
+                        "target_type": "taxonomy_term",
+                        "target_uuid": "23fa46fb-1e0b-4ff2-8de3-9f05985da7ef",
+                        "url": "\/en\/taxonomy\/term\/6953",
+                        "taxonomy_term_name": "Sports \u0026 Fitness event in Riyadh",
+                        "icon_taxonomy": null,
+                        "parent": []
+                    }
+                ],
+                "target_audience": null,
+                "time": {
+                    "start_time": 28800,
+                    "finish_time": 82800
+                },
+                "video": [],
+                "website": {
+                    "uri": "https:\/\/sportsforall.com.sa\/expo\/",
+                    "title": "sportsforall.com.sa",
+                    "options": []
+                },
+                "link": "https:\/\/riyadh.sa\/en\/moment\/events\/item\/event\/23471",
+                "type": "event",
+                "body_summary": ""
+            }
+        ]
+    },
+    "errors": []
+}

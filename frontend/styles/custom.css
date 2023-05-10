@@ -1,0 +1,153 @@
+@font-face {
+    font-family: "Nunito-Regular";
+    src: url("../public/fonts/Nunito-Regular.ttf");
+}
+
+body{
+    font-family: 'Nunito-Regular';
+}
+.navbar-nav {
+    padding-left: 0;
+    padding-right: 0;
+}
+.nav-item{
+    font-size: 16px;
+    font-weight: 900;
+}
+.bg-overlay {
+    background: linear-gradient(rgba(148, 146, 146, 0.3), rgba(0, 0, 0, 0.2)), url("/images/blog-header-image.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    height: auto;
+    padding-top: 50px;
+}
+
+.post-page-bg-overlay {
+    background: url("/images/blog-header-image.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    height: auto;
+}
+
+/* TODO Fix this */
+.post-bg-overlay {
+    background-repeat: no-repeat!important;
+    background-size: contain!important;
+    background-position: center center!important;
+    
+}
+
+hr.section {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: 0;
+    border-top: 3px solid #cccccc;
+}
+hr.div {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: 0;
+    border-top: 1px solid #cccccc;
+}
+
+section {
+    margin-bottom: 2.5rem;
+}
+.vr{
+    color: #5DD5C4;
+    opacity: 100%;
+    width: 2px;
+    margin-left: 0.5rem;
+}
+.vr-footer{
+    border-left: 1px solid #cccccc;
+    margin-left: 0.5rem;
+    margin-right: 0.5rem;
+    display: inline-block;
+    align-self: stretch;
+    min-height: 100%;
+}
+
+button.bg-orange{
+    background: #FF9F4B;
+}
+button.bg-orange:hover{
+    background: #FFAA26;
+}
+button.bg-teal{
+    background: #FFAA26;
+}
+button.bg-teal:hover{
+    background: #FF9F4B;
+}
+
+.circle {
+    border-radius: 50%;
+    vertical-align: middle;
+    padding-bottom: 0.5rem;
+}
+
+a{
+    text-decoration: none;
+}
+h5 >a{
+    color: #202221; 
+}
+.nav-link, h6 >a{
+    color: #404343; 
+}
+p{
+  color: #808686; 
+  font-weight: 100;
+}
+p .text-white{
+    font-weight: 100;
+}
+.post-bg-overlay> .card-body >h5 >a,
+.post-bg-overlay> .card-body >h6 >a,
+.post-bg-overlay> .card-body >h2,
+.post-bg-overlay> .card-body >h6,
+.post-bg-overlay> .card-body >p{
+    color: #fff; 
+}
+.nav-link:hover, a:hover{
+    text-decoration: underline;
+    color: #FFAA26!important;
+}
+.gray{
+    color: #808686; 
+}
+.darkgray{
+    color: #404343; 
+}
+.black{
+    color: #202221; 
+}
+.teal{
+    color: #FFAA26;
+}
+.size-full{
+    width: 100%;
+    margin-top: 1rem;
+}
+.header-content {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+input:invalid[focused="true"]{
+    border: 1px solid red;
+}
+
+input:invalid[focused="true"] ~ span{
+    display: block;
+}
+
+span.error{
+    font-size: 12px;
+    padding: 3px;
+    color: red;
+    display: none;
+}
